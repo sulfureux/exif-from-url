@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    exiftool (1.2.1)
+      json
+    exiftool_vendored (11.89.0)
+      exiftool (>= 0.7.0)
+    json (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exiftool_vendored
+
+BUNDLED WITH
+   2.1.4
