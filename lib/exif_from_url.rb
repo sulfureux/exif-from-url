@@ -5,6 +5,7 @@ require "tempfile"
 class ExifFromUrl
   def self.from(link)
     file = Tempfile.new("document", Dir.tmpdir)
+    file.binmode
     file.write(open(link).read)
     file.flush
 

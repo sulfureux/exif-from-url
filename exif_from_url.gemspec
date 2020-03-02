@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "exif_from_url"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.date = "2020-03-03"
   s.summary = "get exif information of file from url"
   s.description = "get exif information of file from url"
