@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    exiftool (1.2.1)
+    exiftool (1.2.4)
       json
-    exiftool_vendored (11.89.0)
+    exiftool_vendored (12.25.0)
       exiftool (>= 0.7.0)
-    json (2.3.0)
+    json (2.6.3)
 
 PLATFORMS
   ruby
